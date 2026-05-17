@@ -1,0 +1,10 @@
+product_id,product_name,category,price
+1,Espresso,Coffee,2.50
+2,Latte,Coffee,3.75
+3,Cappuccino,Coffee,3.50
+4,Iced Coffee,Coffee,3.25
+5,Green Tea,Tea,2.75
+6,Croissant,Bakery,2.95
+7,Blueberry Muffin,Bakery,3.10
+8,Breakfast Sandwich,Food,5.50
+
